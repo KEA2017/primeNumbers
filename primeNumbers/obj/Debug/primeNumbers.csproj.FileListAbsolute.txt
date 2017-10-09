@@ -1,0 +1,10 @@
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe.config
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\bin\Debug\primeNumbers.pdb
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.Form1.resources
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.Properties.Resources.resources
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.GenerateResource.Cache
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.exe
+C:\Users\popo\source\repos\primeNumbers\primeNumbers\obj\Debug\primeNumbers.pdb
